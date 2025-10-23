@@ -81,7 +81,7 @@ Here is a complete Python example:
 ```python
 from vllm import LLM, SamplingParams
 
-model_path = "path/to/your/algharb_model"
+model_path = "AIDC-AI/Marco-MT-Algharb"
 llm = LLM(model=model_path)
 
 source_text = "This paper presents the Algharb system, our submission to the WMT 2025."
