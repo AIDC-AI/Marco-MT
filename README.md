@@ -192,9 +192,33 @@ comet-mbr -s src.txt -t mbr_sample_100.txt -o mbr_trans.txt --num_samples 100 --
 ```
 Note: Word alignment for MBR reranking will be available soon. 
 
+## Citation
+```bibtex
+@InProceedings{wang-EtAl:2025:WMT,
+  author    = {Wang, Hao  and  Xu, Linlong  and  Liu, Heng  and  Liu, Yangyang  and  Zhao, Xiaohu  and  Zeng, Bo  and  Wang, Longyue  and  Luo, Weihua  and  Zhang, Kaifu},
+  title     = {Marco Large Translation Model at WMT2025: Transforming Translation Capability in LLMs via Quality-Aware Training and Decoding},
+  booktitle      = {Proceedings of the Tenth Conference on Machine Translation (WMT 2025)},
+  month          = {November},
+  year           = {2025},
+  address        = {Suzhou, China},
+  publisher      = {Association for Computational Linguistics},
+  pages     = {587--593},
+  url       = {https://aclanthology.org/2025.wmt-1.33}
+}
+ 
+@article{wang2025beyond,
+  title={Beyond Single-Reward: Multi-Pair, Multi-Perspective Preference Optimization for Machine Translation},
+  author={Wang, Hao and Xu, Linlong and Liu, Heng and Liu, Yangyang and Zhao, Xiaohu and Zeng, Bo and Shao, Liangying and Wang, Longyue and Luo, Weihua and Zhang, Kaifu},
+  journal={arXiv preprint arXiv:2510.13434},
+  year={2025}
+}
+```
 
 ## License
-This model is licensed under Apache License Version 2 (https://www.apache.org/licenses/LICENSE-2.0.txt, SPDX-License-identifier: Apache-2.0).
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This model is released under the **Apache License 2.0**. You can find the full license text [here](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 ## Disclaimer
 We used compliance checking algorithms during the training process, to ensure the compliance of the trained model(s) to the best of our ability. Due to complex data and the diversity of language model usage scenarios, we cannot guarantee that the model is completely free of copyright issues or improper content. If you believe anything infringes on your rights or generates improper content, please contact us, and we will promptly address the matter.
