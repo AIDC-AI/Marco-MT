@@ -28,6 +28,14 @@ This repository contains the system for Algharb, the submission from the Marco T
 
 The Algharb system is a large translation model built based on the Qwen3-14B foundation. It is designed for high-quality translation across 13 diverse language directions and demonstrates state-of-the-art performance. Our approach is centered on a multi-stage refinement pipeline that systematically enhances translation fluency and faithfulness.
 
+## Performance
+<div align='center'>
+<img src="Marco-MT-Algharb/wmt25_model_performance.png" width = "80%" />
+</div>
+
+## Usage
+The model expects a specific instruction format for translation. The following example demonstrates how to construct the prompt and perform generation using the vllm library for efficient inference.
+
 Supported language pairs:
 | Languages pair | Chinese Names |
 |---|---|
@@ -44,10 +52,6 @@ Supported language pairs:
 | cs2uk |  捷克语到乌克兰语 |
 | cs2de |  捷克语到德语 |
 | ja2zh |  日语到中文 |
-
-## Usage
-
-The model expects a specific instruction format for translation. The following example demonstrates how to construct the prompt and perform generation using the vllm library for efficient inference.
 
 
 ### 1. Dependencies
