@@ -5,18 +5,6 @@
  <img src="figures/marco_mt_label.png" width="400"/> <br>
 </p><p></p>
 
-<!-- 
-<p align="center">
-    🤗&nbsp;<a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><b>Hugging Face</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    ⚓️&nbsp;<a href="https://www.aidc-ai.com/marcomt" style="color: red;"><b>Official Website</b></a>&nbsp;&nbsp
-</p>
-
-<p align="center">
-    &nbsp;<a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb"><b>Demo</b></a>&nbsp;&nbsp;｜&nbsp;&nbsp;
-    <a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf"><b>Technical Report</b> </a>
-</p> -->
-
-
 <div align="center">
 
 **[_Alibaba International Digital Commerce_](https://www.aidc-ai.com/marcomt)**
