@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://www.aidc-ai.com/marcomt">
-    <img src="https://raw.githubusercontent.com/AIDC-AI/Marco-MT/main/figures/marco_mt_label.png" alt="Aidgc Marco Translator Banner" width="400">
+    <img src="figures/marco_mt_label.png" width="400">
   </a>
   <br>
 
