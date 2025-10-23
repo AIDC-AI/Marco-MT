@@ -7,8 +7,7 @@
 
 
 <p align="center">
-    🤗&nbsp;<a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><b>Hugging Face</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <img src="https://avatars.githubusercontent.com/u/109945100?s=200&v=4" width="16"/>&nbsp;
+    🤗&nbsp;<a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><b>Hugging Face</b></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
