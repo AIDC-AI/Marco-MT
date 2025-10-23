@@ -8,18 +8,7 @@
   <a href="https://www.aidc-ai.com/marcomt">Alibaba International Digital Commerce</a>
   <br><br>
 
-  <a href="https://github.com/AIDC-AI/Marco-MT">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub">
-  </a>
-  <a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Model-ffc107?logo=huggingface" alt="Hugging Face">
-  </a>
-  <a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf">
-    <img src="https://img.shields.io/badge/Paper-WMT_2025-B23737" alt="Paper">
-  </a>
-  <a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb">
-    <img src="https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface" alt="Demo">
-  </a>
+  <a href="https://github.com/AIDC-AI/Marco-MT"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub"></a><a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Hugging%20Face-Model-ffc107?logo=huggingface" alt="Hugging Face"></a><a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf"><img src="https://img.shields.io/badge/Paper-WMT_2025-B23737" alt="Paper"></a><a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface" alt="Demo"></a>
 
 </div>
 
@@ -31,7 +20,21 @@ This repository contains the system for Algharb, the submission from the Marco T
 
 The Algharb system is a large translation model built based on the Qwen3-14B foundation. It is designed for high-quality translation across 13 diverse language directions and demonstrates state-of-the-art performance. Our approach is centered on a multi-stage refinement pipeline that systematically enhances translation fluency and faithfulness.
 
+## Highlights
+
+🏆 **WMT 2025 Dominant Performance**
+Secured **12 medals** (6 🥇, 4 🥈, 2 🥉) across 13 contested language pairs, demonstrating state-of-the-art capabilities.
+
+🚀 **Breakthrough in EN→ZH Translation**
+
+Achieved **Rank #1** in the highly competitive English→Chinese direction, outperforming human translators, GPT-4.1, and Claude-4.
+
+💡 **Core Technical Innovations**
+* A two-stage SFT (Supervised Fine-Tuning) pipeline enhanced with **$CPO/M^2PO$** reinforcement learning.
+* A **hybrid decoding** strategy integrating word alignment and MBR (Minimum Bayes Risk).
+
 ## Performance
+In the WMT 2025 evaluation, our Marco-MT-Algharb system demonstrated exceptional performance. Notably, in the English-to-Chinese general translation task, our system ranked #1, outperforming leading AI systems like GPT-4.1 and Claude-4.
 <div align='center'>
 <img src="Marco-MT-Algharb/wmt25_model_performance.png" width = "80%" />
 </div>
