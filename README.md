@@ -4,7 +4,7 @@
     <img src="figures/Marco-mt-lg.jpg" width="600">
   </a>
   <br>
-
+# Marco-MT
   <a href="https://www.aidc-ai.com/marcomt">Alibaba International Digital Commerce</a>
   <br><br>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-# Marco-MT-Algharb
+## Marco-MT-Algharb
 
 This repository contains the system for Algharb, the submission from the Marco Translation Team of Alibaba International Digital Commerce (AIDC) to the WMT 2025 General Machine Translation Shared Task.
 
