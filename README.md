@@ -3,12 +3,13 @@
   <a href="https://www.aidc-ai.com/marcomt">
     <img src="figures/Marco-mt-lg.jpg" width="600">
   </a>
-  <br>
-# Marco-MT
-  <a href="https://www.aidc-ai.com/marcomt">Alibaba International Digital Commerce</a>
-  <br><br>
 
-  <a href="https://github.com/AIDC-AI/Marco-MT"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub"></a><a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Hugging%20Face-Model-ffc107?logo=huggingface" alt="Hugging Face"></a><a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf"><img src="https://img.shields.io/badge/Paper-WMT_2025-B23737" alt="Paper"></a><a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface" alt="Demo"></a>
+# Marco-MT
+
+<a href="https://www.aidc-ai.com/marcomt">Alibaba International Digital Commerce</a>
+<br><br>
+
+<a href="https://github.com/AIDC-AI/Marco-MT"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub"></a><a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Hugging%20Face-Model-ffc107?logo=huggingface" alt="Hugging Face"></a><a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf"><img src="https://img.shields.io/badge/Paper-WMT_2025-B23737" alt="Paper"></a><a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface" alt="Demo"></a>
 
 </div>
 
