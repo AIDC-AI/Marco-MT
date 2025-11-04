@@ -4,7 +4,19 @@
     <img src="figures/Marco-mt-lg.jpg" width="600">
   </a>
 
-# Marco-MT
+# Marco-MT: Large Translation Model
+
+<div align="center">
+
+<!-- **Affiliations:** -->
+
+⭐ _**MarcoPolo Team**_ ⭐
+
+[_**Alibaba International Digital Commerce**_](https://aidc-ai.com)
+
+:octocat: [**Github**](https://github.com/AIDC-AI/Marco-o1)  🤗  [**Hugging Face**](https://huggingface.co/AIDC-AI/Marco-o1) 📝  [**Paper**](https://arxiv.org/abs/2411.14405) 🧑‍💻 [**Model**](https://huggingface.co/AIDC-AI/Marco-o1) 🗂️  [**Data**](https://github.com/AIDC-AI/Marco-o1/tree/main/data) 📽️  [**Demo**](https://huggingface.co/AIDC-AI/Marco-o1)
+
+</div>
 
 <a href="https://www.aidc-ai.com/marcomt">Alibaba International Digital Commerce</a>
 <br><br>
