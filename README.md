@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://www.aidc-ai.com/marcomt">
-    <img src="figures/marco_mt_label.png" width="400">
+    <img src="figures/Marco-mt-lg.jpg" width="400">
   </a>
   <br>
 
