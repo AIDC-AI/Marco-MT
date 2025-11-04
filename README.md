@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://www.aidc-ai.com/marcomt">
-    <img src="figures/Marco-mt-lg.jpg" width="400">
+    <img src="figures/Marco-mt-lg.jpg" width="600">
   </a>
   <br>
 
@@ -222,3 +222,7 @@ This model is released under the **Apache License 2.0**. You can find the full l
 
 ## Disclaimer
 We used compliance checking algorithms during the training process, to ensure the compliance of the trained model(s) to the best of our ability. Due to complex data and the diversity of language model usage scenarios, we cannot guarantee that the model is completely free of copyright issues or improper content. If you believe anything infringes on your rights or generates improper content, please contact us, and we will promptly address the matter.
+
+<a href="https://www.aidc-ai.com/marcomt">
+<img src="figures/marco_mt_label.png" width="400">
+</a>
