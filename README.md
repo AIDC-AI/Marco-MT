@@ -13,15 +13,9 @@
 
 ⭐ [_**Alibaba International Digital Commerce**_](https://www.aidc-ai.com/marcomt)⭐
 
-:octocat: [**Github**](https://github.com/AIDC-AI/Marco-MT)  🤗  [**Hugging Face**](https://huggingface.co/AIDC-AI/Marco-MT) 📝  [**Paper**](https://arxiv.org/abs/2411.14405) 🧑‍💻 [**Model**](https://huggingface.co/AIDC-AI/Marco-o1) 🗂️  [**Data**](https://github.com/AIDC-AI/Marco-o1/tree/main/data) 📽️  [**Demo**](https://huggingface.co/AIDC-AI/Marco-o1)
+:octocat: [**Github**](https://github.com/AIDC-AI/Marco-MT)  🤗  [**Hugging Face**](https://huggingface.co/AIDC-AI/Marco-MT-Algharb) 📝  [**Paper**](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf)  📽️  [**Demo**](https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface)
 
-
-
-
-
-
-
-<a href="https://github.com/AIDC-AI/Marco-MT"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub"></a><a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Hugging%20Face-Model-ffc107?logo=huggingface" alt="Hugging Face"></a><a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf"><img src="https://img.shields.io/badge/Paper-WMT_2025-B23737" alt="Paper"></a><a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface" alt="Demo"></a>
+<!-- <a href="https://github.com/AIDC-AI/Marco-MT"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub"></a><a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Hugging%20Face-Model-ffc107?logo=huggingface" alt="Hugging Face"></a><a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf"><img src="https://img.shields.io/badge/Paper-WMT_2025-B23737" alt="Paper"></a><a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface" alt="Demo"></a> -->
 
 </div>
 
