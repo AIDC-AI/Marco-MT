@@ -13,7 +13,7 @@
 
 ⭐ [_**Alibaba International Digital Commerce**_](https://www.aidc-ai.com/marcomt)⭐
 
-:octocat: [**Github**](https://github.com/AIDC-AI/Marco-MT)  🤗  [**Hugging Face**](https://huggingface.co/AIDC-AI/Marco-MT-Algharb) 📝  [**Paper**](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf)  📽️  [**Demo**](https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface)
+:octocat: [**Github**](https://github.com/AIDC-AI/Marco-MT)  🤗  [**Hugging Face**](https://huggingface.co/AIDC-AI/Marco-MT-Algharb) 📝  [**Paper**](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf)  📽️  [**Demo**](https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb)
 
 <!-- <a href="https://github.com/AIDC-AI/Marco-MT"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub"></a><a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Hugging%20Face-Model-ffc107?logo=huggingface" alt="Hugging Face"></a><a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf"><img src="https://img.shields.io/badge/Paper-WMT_2025-B23737" alt="Paper"></a><a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface" alt="Demo"></a> -->
 
@@ -223,9 +223,9 @@ Note: Word alignment for MBR reranking will be available soon.
 
 ## License
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
-This model is released under the **Apache License 2.0**. You can find the full license text [here](https://www.apache.org/licenses/LICENSE-2.0.txt).
+
+This model is released under the **Apache License 2.0**. You can find the full license text [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 ## Disclaimer
 We used compliance checking algorithms during the training process, to ensure the compliance of the trained model(s) to the best of our ability. Due to complex data and the diversity of language model usage scenarios, we cannot guarantee that the model is completely free of copyright issues or improper content. If you believe anything infringes on your rights or generates improper content, please contact us, and we will promptly address the matter.
