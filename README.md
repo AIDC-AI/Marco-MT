@@ -5,27 +5,21 @@
   </a>
 
 # Marco-MT: Large Translation Model
-
-<div align="center">
-
-<!-- **Affiliations:** -->
-
-⭐ _**MarcoPolo Team**_ ⭐
-
-[_**Alibaba International Digital Commerce**_](https://aidc-ai.com)
-
-:octocat: [**Github**](https://github.com/AIDC-AI/Marco-o1)  🤗  [**Hugging Face**](https://huggingface.co/AIDC-AI/Marco-o1) 📝  [**Paper**](https://arxiv.org/abs/2411.14405) 🧑‍💻 [**Model**](https://huggingface.co/AIDC-AI/Marco-o1) 🗂️  [**Data**](https://github.com/AIDC-AI/Marco-o1/tree/main/data) 📽️  [**Demo**](https://huggingface.co/AIDC-AI/Marco-o1)
-
-</div>
-
-<a href="https://www.aidc-ai.com/marcomt">Alibaba International Digital Commerce</a>
-<br><br>
-
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License">
-<img src="https://img.shields.io/github/stars/AIDC-AI/Marco-o1?color=yellow" alt="Stars">
-<img src="https://img.shields.io/github/issues/AIDC-AI/Marco-o1?color=red" alt="Issues">
-<img src="https://img.shields.io/badge/python-3.8-purple.svg" alt="Python">
+<img src="https://img.shields.io/github/stars/AIDC-AI/Marco-MT?color=yellow" alt="Stars">
+<img src="https://img.shields.io/github/issues/AIDC-AI/Marco-MT?color=red" alt="Issues">
+<img src="https://img.shields.io/badge/python-3.10+-purple.svg" alt="Python">
+
+⭐ [_**Alibaba International Digital Commerce**_](https://www.aidc-ai.com/marcomt)⭐
+
+:octocat: [**Github**](https://github.com/AIDC-AI/Marco-MT)  🤗  [**Hugging Face**](https://huggingface.co/AIDC-AI/Marco-MT) 📝  [**Paper**](https://arxiv.org/abs/2411.14405) 🧑‍💻 [**Model**](https://huggingface.co/AIDC-AI/Marco-o1) 🗂️  [**Data**](https://github.com/AIDC-AI/Marco-o1/tree/main/data) 📽️  [**Demo**](https://huggingface.co/AIDC-AI/Marco-o1)
+
+
+
+
+
+
 
 <a href="https://github.com/AIDC-AI/Marco-MT"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub"></a><a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Hugging%20Face-Model-ffc107?logo=huggingface" alt="Hugging Face"></a><a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf"><img src="https://img.shields.io/badge/Paper-WMT_2025-B23737" alt="Paper"></a><a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface" alt="Demo"></a>
 
