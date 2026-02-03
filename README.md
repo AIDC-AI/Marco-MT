@@ -8,6 +8,7 @@
     <img src="figures/logo_1.png" width="250" style="margin-bottom: 0.2;"/>
 <p>
 
+<div align="center">
 # Marco-MT: Large Translation Model
 
 <h4 align="center">
@@ -19,9 +20,13 @@
 <img src="https://img.shields.io/badge/python-3.10+-purple.svg" alt="Python">
 </h4>
 
+<div align="center">
+
 ⭐ [_**Alibaba International Digital Commerce**_](https://www.aidc-ai.com/marcomt) ⭐
 
 :octocat: [**Github**](https://github.com/AIDC-AI/Marco-MT)&nbsp;&nbsp;🤗 [**Hugging Face**](https://huggingface.co/AIDC-AI/Marco-MT-Algharb)&nbsp;&nbsp;📝 [**Paper**](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf)&nbsp;&nbsp;📽️ [**Demo**](https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb)&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/109945100?s=200&v=4" width="16"/> <a href="https://modelscope.cn/models/AIDC-AI/Marco-MT-Algharb"><b>ModelScope</b>
+
+</div>
 
 <!-- <a href="https://github.com/AIDC-AI/Marco-MT"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github" alt="GitHub"></a><a href="https://huggingface.co/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Hugging%20Face-Model-ffc107?logo=huggingface" alt="Hugging Face"></a><a href="https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf"><img src="https://img.shields.io/badge/Paper-WMT_2025-B23737" alt="Paper"></a><a href="https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb"><img src="https://img.shields.io/badge/Demo-HF%20Space-ffc107?logo=huggingface" alt="Demo"></a> -->
 
