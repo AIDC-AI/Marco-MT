@@ -3,6 +3,9 @@
   <a href="https://www.aidc-ai.com/marcomt">
     <img src="figures/Marco-mt-lg.jpg" width="600">
   </a>
+<p align="center">
+    <img src="assets/logo_1.png" width="250" style="margin-bottom: 0.2;"/>
+<p>
 
 # Marco-MT: Large Translation Model
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
@@ -11,7 +14,7 @@
 <img src="https://img.shields.io/github/issues/AIDC-AI/Marco-MT?color=red" alt="Issues">
 <img src="https://img.shields.io/badge/python-3.10+-purple.svg" alt="Python">
 
-⭐ [_**Alibaba International Digital Commerce**_](https://www.aidc-ai.com/marcomt)⭐
+⭐ [_**Alibaba International Digital Commerce**_](https://www.aidc-ai.com/marcomt) ⭐
 
 :octocat: [**Github**](https://github.com/AIDC-AI/Marco-MT)&nbsp;&nbsp;🤗 [**Hugging Face**](https://huggingface.co/AIDC-AI/Marco-MT-Algharb)&nbsp;&nbsp;📝 [**Paper**](https://www2.statmt.org/wmt25/pdf/2025.wmt-1.33.pdf)&nbsp;&nbsp;📽️ [**Demo**](https://huggingface.co/spaces/AIDC-AI/Marco-MT-Algharb)&nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/109945100?s=200&v=4" width="16"/> <a href="https://modelscope.cn/models/AIDC-AI/Marco-MT-Algharb"><b>ModelScope</b>
 
