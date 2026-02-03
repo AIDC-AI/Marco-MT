@@ -10,11 +10,14 @@
 
 # Marco-MT: Large Translation Model
 
+<h4 align="center">
+<div align="center">
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License">
 <img src="https://img.shields.io/github/stars/AIDC-AI/Marco-MT?color=yellow" alt="Stars">
 <img src="https://img.shields.io/github/issues/AIDC-AI/Marco-MT?color=red" alt="Issues">
 <img src="https://img.shields.io/badge/python-3.10+-purple.svg" alt="Python">
+</h4>
 
 ⭐ [_**Alibaba International Digital Commerce**_](https://www.aidc-ai.com/marcomt) ⭐
 
