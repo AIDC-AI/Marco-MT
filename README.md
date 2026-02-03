@@ -1,10 +1,11 @@
 <div align="center">
 
-  <a href="https://www.aidc-ai.com/marcomt">
-    <img src="figures/Marco-mt-lg.jpg" width="600">
-  </a>
+<a href="https://www.aidc-ai.com/marcomt">
+<img src="figures/Marco-mt-lg.jpg" width="600">
+</a>
+
 <p align="center">
-    <img src="assets/logo_1.png" width="250" style="margin-bottom: 0.2;"/>
+    <img src="figures/logo_1.png" width="250" style="margin-bottom: 0.2;"/>
 <p>
 
 # Marco-MT: Large Translation Model
