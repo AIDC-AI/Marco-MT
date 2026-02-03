@@ -1,14 +1,15 @@
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://www.aidc-ai.com/marcomt">
 <img src="figures/Marco-mt-lg.jpg" width="600">
-</a>
+</a> -->
 
 <p align="center">
     <img src="figures/logo_1.png" width="250" style="margin-bottom: 0.2;"/>
 <p>
 
 # Marco-MT: Large Translation Model
+
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
 <img src="https://img.shields.io/badge/License-Apache%202.0-green.svg" alt="License">
 <img src="https://img.shields.io/github/stars/AIDC-AI/Marco-MT?color=yellow" alt="Stars">
