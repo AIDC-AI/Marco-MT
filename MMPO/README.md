@@ -1,6 +1,6 @@
-# MMPO
+# M²PO
 
-This repository contains the code and data for the paper on **M^2PO**.
+This repository contains the code and data for the paper on **M²PO: Multi-Perspective Multi-Pair Preference Optimization for Machine Translation**.
 
 ## 🚧 Coming Soon
 
