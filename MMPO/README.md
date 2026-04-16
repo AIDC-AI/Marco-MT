@@ -1,6 +1,6 @@
 # MMPO
 
-This repository contains the code and data for the paper on **MMPO**.
+This repository contains the code and data for the paper on **M^2PO**.
 
 ## 🚧 Coming Soon
 
