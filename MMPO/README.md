@@ -4,10 +4,7 @@ This repository contains the code and data for the paper on **M²PO: Multi-Persp
 
 ## 🚧 Coming Soon
 
-We are currently in the process of preparing the release. The following resources will be made available upon paper acceptance:
-
-- **Code**: Training and evaluation scripts
-- **Dataset**: Benchmark data used in our experiments
+We are currently in the process of preparing the release.
 
 ## 📬 Contact
 
